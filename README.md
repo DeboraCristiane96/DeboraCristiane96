@@ -1,4 +1,4 @@
-### Hi, I'm Débora Cristiane ❤️
+### Hi, I'm Débora Cristiane 🌺
 
 Here are some ideas to get you started:
 - 🌱 I’m currently learning Javascript
