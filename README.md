@@ -1,6 +1,5 @@
 ### Olá, eu sou a Débora Cristiane
 
-Here are some ideas to get you started:
 - 🌱 Atualmente estou aprendendo Javascript
 <div align="center">
   <a href="https://github.com/DeboraCristiane96">
