@@ -1,6 +1,8 @@
 ### Olá, eu sou a Débora Cristiane
 
-- 🌱 Atualmente estou aprendendo Javascript
+- 🌱 Atualmente estou aprendendo JavaScript
+- 🌱 Atualmente estou aprendendo HTML5 
+- 🌱 Atualmente estou aprendendo CSS3
 <div align="center">
   <a href="https://github.com/DeboraCristiane96">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeboraCristiane96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
