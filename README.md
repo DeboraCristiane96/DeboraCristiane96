@@ -3,6 +3,8 @@
 - 🌱 Atualmente estou aprendendo JavaScript
 - 🌱 Atualmente estou aprendendo HTML5 
 - 🌱 Atualmente estou aprendendo CSS3
+- 🌱 Atualmente estou aprendendo Dart
+- 🌱 Atualmente estou aprendendo Futter
 <div align="center">
   <a href="https://github.com/DeboraCristiane96">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeboraCristiane96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -19,6 +21,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
+<img align="center" alt="Rafa-CSS" height="30" width="40" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 </div>
   <br>
 <div>
