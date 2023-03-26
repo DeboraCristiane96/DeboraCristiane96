@@ -21,8 +21,8 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" 
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg"> 
- <img align="center"  height="30" width="40" largura = "40"
-       src="https://icongr.am/devicon/mysql-original-wordmark.svg/color=currentColor">
+<img align= "center" altura="30" width="40 
+       src="https://icongr.am/devicon/mysql-original-wordmark.svg">
    <img align="center" height="30"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
    <img align="center" height="30" width="40" 
