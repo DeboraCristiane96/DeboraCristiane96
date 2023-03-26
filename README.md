@@ -24,7 +24,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/
   <img align="center"  height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
   <img align="center" height="30"
        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
-   <img align="center" height="30" width="40" 
+   <img align="center" height="40" width="50" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
 <img align="center" alt="Rafa-CSS" height="30" width="40" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
