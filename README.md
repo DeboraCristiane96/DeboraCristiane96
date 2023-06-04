@@ -1,10 +1,9 @@
-### Olá, eu sou a Débora Cristiane
-
+ <p align="center"><img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif"/></p>
+  
+### Olá, me chamo Débora Cristiane     
 - 🌱 Atualmente estou aprendendo JavaScript
 - 🌱 Atualmente estou aprendendo HTML5 
 - 🌱 Atualmente estou aprendendo CSS3
-- 🌱 Atualmente estou aprendendo Dart
-- 🌱 Atualmente estou aprendendo Futter
 <div align="center">
   <a href="https://github.com/DeboraCristiane96">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DeboraCristiane96&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
